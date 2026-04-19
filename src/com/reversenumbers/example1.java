@@ -3,7 +3,7 @@ package com.reversenumbers;
 public class example1 {
 
 	public static void main(String[] args) {
-		int number = 123; //123456789
+		int number = 123; //123456789 
 		int reverseNumber=0;
 		int lastDigit;
 		while(number!=0) {
