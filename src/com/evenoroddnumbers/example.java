@@ -1,6 +1,6 @@
-package comevenoroddnumbers;
+package com.evenoroddnumbers;
 
-public class example1 {
+public class example {
 	public static void main(String[] args) {
 		int number =24;
 		if((number & 1)==1) {
